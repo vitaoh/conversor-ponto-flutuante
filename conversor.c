@@ -142,7 +142,6 @@ int main()
 
     printf("=========================================================\n");
     printf("  CONVERSOR DE PONTO FLUTUANTE IEEE 754 (32 bits)\n");
-    printf("  Instituto Federal de Sao Paulo - Campus Araraquara\n");
     printf("=========================================================\n\n");
 
     while (1)
